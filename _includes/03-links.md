@@ -1,1 +1,1 @@
-https://github.com/cwyoan/github-slideshow/pull/4
+[GitHub](https://github.com/cwyoan/github-slideshow/pull/4)
